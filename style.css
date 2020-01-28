@@ -5,7 +5,7 @@ body{
 
 .cabecera {
     height: 130px;
-    background: #8e0000;
+    background: #ff00a9;
     color: white;
 }
 
@@ -18,11 +18,11 @@ body{
 
 .cuerpo {
     display: flex;
-    background-color: rgb(228, 201, 201);
+    background-color: rgb(255,191,211);
 }
 
 .menu {
-    background: #c62828;
+    background: #ff0065;
     width: 500px;
     height: 100vh;
 }
